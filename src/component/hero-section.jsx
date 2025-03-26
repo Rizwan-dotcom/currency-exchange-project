@@ -1,6 +1,6 @@
 import React from "react";
 import MoreHorizIcon from "@mui/icons-material/MoreHoriz";
-import TelegramIcon from '@mui/icons-material/Telegram';
+import TelegramIcon from "@mui/icons-material/Telegram";
 
 export const HeroSection = () => {
   return (
@@ -69,7 +69,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-2 py-0.5 ml-4 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -100,7 +102,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -131,7 +135,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -162,7 +168,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -193,7 +201,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -224,7 +234,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -255,7 +267,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -286,7 +300,9 @@ export const HeroSection = () => {
                   </div>
                 </td>
                 <td>
-                  <p className="text-xs font-semibold text-gray-500">-1010.00 PKR</p>
+                  <p className="text-xs font-semibold text-gray-500">
+                    -1010.00 PKR
+                  </p>
                 </td>
                 <td>
                   <button className="uppercase px-3 py-0.5 ml-3 bg-gradient-to-r from-lime-300 to-lime-600 text-white text-xs font-bold rounded-xl">
@@ -306,64 +322,90 @@ export const HeroSection = () => {
           </table>
         </div>
         <aside className="bg-white lg:w-[288px] w-full shadow-lg rounded-xl mt-6 lg:mt-0">
-        <h2 className="text-lg text-gray-700 font-semibold p-6">
+          <h2 className="text-lg text-gray-700 font-semibold p-6">
             How to get started?
           </h2>
           <ul>
-          <li className=" text-gray-600">  
-                <div className="flex items-center space-x-4 px-5">
+            <li className=" text-gray-600">
+              <div className="flex items-center space-x-4 px-5">
                 <i class="bi bi-bell-fill bg-gradient-to-r from-lime-300 to-lime-500 bg-clip-text text-transparent"></i>
-                  <span className="font-semibold text-sm active:text-gray-600">Deposit Fund</span>
-                </div>
-                <div className="flex items-center space-x-4 pl-7 pb-1">
-                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">Any amount you can deposit in your wallet for your use.</p>
-                </div>
+                <span className="font-semibold text-sm active:text-gray-600">
+                  Deposit Fund
+                </span>
+              </div>
+              <div className="flex items-center space-x-4 pl-7 pb-1">
+                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">
+                  Any amount you can deposit in your wallet for your use.
+                </p>
+              </div>
             </li>
-            <li className=" text-gray-600">  
-                <div className="flex items-center space-x-4 px-4">
-                <TelegramIcon style={{color:"red"}}/>
-                  <span className="font-semibold text-sm active:text-gray-600">Send/Request money</span>
-                </div>
-                <div className="flex items-center space-x-4 pl-7 pb-1">
-                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">Send fund or Request fund from your friends.</p>
-                </div>
+            <li className=" text-gray-600">
+              <div className="flex items-center space-x-4 px-4">
+                <TelegramIcon style={{ color: "red" }} />
+                <span className="font-semibold text-sm active:text-gray-600">
+                  Send/Request money
+                </span>
+              </div>
+              <div className="flex items-center space-x-4 pl-7 pb-1">
+                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">
+                  Send fund or Request fund from your friends.
+                </p>
+              </div>
             </li>
-            <li className=" text-gray-600">  
-                <div className="flex items-center space-x-4 px-5">
+            <li className=" text-gray-600">
+              <div className="flex items-center space-x-4 px-5">
                 <i class="bi bi-globe-asia-australia bg-gradient-to-r from-blue-300 to-blue-600 bg-clip-text text-transparent text-lg"></i>
-                  <span className="font-semibold text-sm active:text-gray-600">Exchange eCurrencies</span>
-                </div>
-                <div className="flex items-center space-x-4 pl-7 pb-1">
-                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">Exchange your ecurrencies by deposit and making withdraw with multiple e-wallets.</p>
-                </div>
+                <span className="font-semibold text-sm active:text-gray-600">
+                  Exchange eCurrencies
+                </span>
+              </div>
+              <div className="flex items-center space-x-4 pl-7 pb-1">
+                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">
+                  Exchange your ecurrencies by deposit and making withdraw with
+                  multiple e-wallets.
+                </p>
+              </div>
             </li>
-            <li className=" text-gray-600">  
-                <div className="flex items-center space-x-4 px-5">
-              
+            <li className=" text-gray-600">
+              <div className="flex items-center space-x-4 px-5">
                 <i class="bi bi-credit-card-2-back bg-gradient-to-r from-orange-300 to-orange-600 bg-clip-text text-transparent text-lg"></i>
-                  <span className="font-semibold text-sm active:text-gray-600">Activate Prepaid Credit Card</span>
-</div>
-                <div className="flex items-center space-x-4 pl-7 pb-1">
-                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">Activate your prepaid debit and use it anywhere online.</p>
-                </div>
+                <span className="font-semibold text-sm active:text-gray-600">
+                  Activate Prepaid Credit Card
+                </span>
+              </div>
+              <div className="flex items-center space-x-4 pl-7 pb-1">
+                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">
+                  Activate your prepaid debit and use it anywhere online.
+                </p>
+              </div>
             </li>
-            <li className=" text-gray-600">  
-                <div className="flex items-center space-x-4 px-5">
+            <li className=" text-gray-600">
+              <div className="flex items-center space-x-4 px-5">
                 <i class="bi bi-cart-fill bg-gradient-to-r from-blue-300 to-blue-600 bg-clip-text text-transparent text-lg"></i>
-                  <span className="font-semibold text-sm active:text-gray-600">Use Prepaid Card</span>
-                </div>
-                <div className="flex items-center space-x-4 pl-7 pb-1">
-                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">Use your Prepaid Credit Card on Paypal, Go for shopping anywhere, you can use our card anywhere online were VISA cards are accepted.</p>
-                </div>
+                <span className="font-semibold text-sm active:text-gray-600">
+                  Use Prepaid Card
+                </span>
+              </div>
+              <div className="flex items-center space-x-4 pl-7 pb-1">
+                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">
+                  Use your Prepaid Credit Card on Paypal, Go for shopping
+                  anywhere, you can use our card anywhere online were VISA cards
+                  are accepted.
+                </p>
+              </div>
             </li>
-            <li className=" text-gray-600">  
-                <div className="flex items-center space-x-4 px-5">
-             <i className="bi bi-cash-coin text-black text-lg"></i>
-                  <span className="font-semibold text-sm active:text-gray-600">Want to Earn? Make Referrals</span>
-                </div>
-                <div className="flex items-center space-x-4 pl-7 pb-1 mb-3">
-                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">Join Affliate Program and earn money.</p>
-                </div>
+            <li className=" text-gray-600">
+              <div className="flex items-center space-x-4 px-5">
+                <i className="bi bi-cash-coin text-black text-lg"></i>
+                <span className="font-semibold text-sm active:text-gray-600">
+                  Want to Earn? Make Referrals
+                </span>
+              </div>
+              <div className="flex items-center space-x-4 pl-7 pb-1 mb-3">
+                <p className="px-6 border-l-2 text-xs text-gray-400 pb-4 font-semibold">
+                  Join Affliate Program and earn money.
+                </p>
+              </div>
             </li>
           </ul>
         </aside>
