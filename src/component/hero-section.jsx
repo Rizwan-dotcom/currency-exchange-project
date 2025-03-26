@@ -1,12 +1,6 @@
 import React from "react";
 import MoreHorizIcon from "@mui/icons-material/MoreHoriz";
-import NotificationsIcon from '@mui/icons-material/Notifications';
 import TelegramIcon from '@mui/icons-material/Telegram';
-import PublicIcon from '@mui/icons-material/Public';
-import PaymentIcon from '@mui/icons-material/Payment';
-import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
-import VpnKeyIcon from '@mui/icons-material/VpnKey';
-
 
 export const HeroSection = () => {
   return (
